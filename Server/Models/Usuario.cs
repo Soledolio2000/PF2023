@@ -22,15 +22,5 @@ public class Usuario
 
       };  
     }
-    public static Usuario Editar (UsuarioRequest request)
-    {
-      return new Usuario()
-      {
-            UsuarioRolId = request.UsuarioRolId,
-            Name = request.Name,
-            NikeName = request.nikeName,
-            Password = request.Password
-
-      };  
-    }
+   
 }
