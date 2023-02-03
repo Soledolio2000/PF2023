@@ -1,0 +1,12 @@
+C:\PF2023\Shared\bin\Debug\net7.0\PF2023.Shared.deps.json
+C:\PF2023\Shared\bin\Debug\net7.0\PF2023.Shared.dll
+C:\PF2023\Shared\bin\Debug\net7.0\PF2023.Shared.pdb
+C:\PF2023\Shared\obj\Debug\net7.0\PF2023.Shared.csproj.AssemblyReference.cache
+C:\PF2023\Shared\obj\Debug\net7.0\PF2023.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PF2023\Shared\obj\Debug\net7.0\PF2023.Shared.AssemblyInfoInputs.cache
+C:\PF2023\Shared\obj\Debug\net7.0\PF2023.Shared.AssemblyInfo.cs
+C:\PF2023\Shared\obj\Debug\net7.0\PF2023.Shared.csproj.CoreCompileInputs.cache
+C:\PF2023\Shared\obj\Debug\net7.0\PF2023.Shared.dll
+C:\PF2023\Shared\obj\Debug\net7.0\refint\PF2023.Shared.dll
+C:\PF2023\Shared\obj\Debug\net7.0\PF2023.Shared.pdb
+C:\PF2023\Shared\obj\Debug\net7.0\ref\PF2023.Shared.dll
