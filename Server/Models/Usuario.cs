@@ -22,7 +22,7 @@ public class Usuario
 
       };  
     }
-    
+  
     public static Usuario Editar (UsuarioRequest request)
     {
       return new Usuario()
