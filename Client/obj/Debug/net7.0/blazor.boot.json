@@ -199,14 +199,14 @@
       "netstandard.dll": "sha256-p32h5P3QmHJ\/FGoeE6m7f5g\/8ng2PSPGZktHyMadvIs=",
       "System.Private.CoreLib.dll": "sha256-6MwQcyKbqBsoZYOcD9fQJ4iKcn1qMmWRWVEkU2LLCb0=",
       "PF2023.Shared.dll": "sha256-k8FcL6PHNOe\/GVBODkHHNlUR9o3k2YAZ7AYy8fFTgV4=",
-      "PF2023.Client.dll": "sha256-kt4mCO7+gdgEAO7nSH4YhfY32T1lTDIPZdydlqB53BM="
+      "PF2023.Client.dll": "sha256-R7bvKwAzxCeCYqK9zWWhJW1WA6OkyeT8BUJULp2ZJOs="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "PF2023.Shared.pdb": "sha256-gR1z6SDEE5yKl6wiClzjhi8At0E1cX+OFTZecBMwbEk=",
-      "PF2023.Client.pdb": "sha256-Y9f+StZg2pEMAjwKt1Mavgt3Uwy5NPF+CpIQmznbmtc="
+      "PF2023.Client.pdb": "sha256-SFR\/eHHOdiv5EDv17wMYW6YzULL9MYnhHo\/4+sDA2u0="
     },
     "runtime": {
       "dotnet.7.0.2.gonvsi61xw.js": "sha256-4mh03qTse0uNR+dQ6ydExm4jJXph0RE8zGNCtF0jiNA=",
