@@ -1,11 +1,13 @@
+using System.Collections.Immutable;
 using Microsoft.AspNetCore.ResponseCompression;
-
+using PF2023.Server.Context;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+builder.Services.AddDbContext<MyDbContext>();
 
 var app = builder.Build();
 

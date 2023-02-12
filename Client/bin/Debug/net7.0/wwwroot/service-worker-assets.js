@@ -873,11 +873,11 @@
       "url": "_framework\/PF2023.Shared.pdb"
     },
     {
-      "hash": "sha256-kt4mCO7+gdgEAO7nSH4YhfY32T1lTDIPZdydlqB53BM=",
+      "hash": "sha256-R7bvKwAzxCeCYqK9zWWhJW1WA6OkyeT8BUJULp2ZJOs=",
       "url": "_framework\/PF2023.Client.dll"
     },
     {
-      "hash": "sha256-Y9f+StZg2pEMAjwKt1Mavgt3Uwy5NPF+CpIQmznbmtc=",
+      "hash": "sha256-SFR\/eHHOdiv5EDv17wMYW6YzULL9MYnhHo\/4+sDA2u0=",
       "url": "_framework\/PF2023.Client.pdb"
     },
     {
@@ -885,9 +885,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-573mBWzx5BphQFpMn2wKDrYF1JwtUsoedKTtIZ9hXC0=",
+      "hash": "sha256-xbFdHNQi\/NqmqVjBC88bT84HZJWPt5xXm0XpGAdUcf4=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "vrWOVgDI"
+  "version": "i1SxSgye"
 };
