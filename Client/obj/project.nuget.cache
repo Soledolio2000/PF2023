@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mdroUCBx1YQyFSEDpaAnb7h5G9nT6euiPAyD/wbZfZ9MLTFlc1mkz15+tdTF20+CvujkSnbAtFDzV8H78YnNGg==",
+  "dgSpecHash": "LxwJm69C7PCISfjLCLiHLVKYvcDwz6byllvoyXgbL+FXDuiImyd3iSq7GBwoqlsu68dTo19VuRKP2bZ8ReJ69g==",
   "success": true,
   "projectFilePath": "C:\\PF2023\\Client\\PF2023.Client.csproj",
   "expectedPackageFiles": [
@@ -31,7 +31,7 @@
     "C:\\Users\\alexi\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\alexi\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\alexi\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\alexi\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.2\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.2.nupkg.sha512"
+    "C:\\Users\\alexi\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.3\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.3.nupkg.sha512"
   ],
   "logs": []
 }

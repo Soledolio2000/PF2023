@@ -7,6 +7,7 @@ internal interface IMyDbContext
     Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
 }
 
+
 internal class MyDbContext : DbContext, IMyDbContext
 {
     //Contructor de la clase
