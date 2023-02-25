@@ -6,9 +6,9 @@ namespace PF2023.Server.Models
     {
         [Key]
         int Id {get;set;}
-        string Nombre {get;set;} = null!;
-        string Cedula {get;set;} = null!;
-        string Pasaporte {get;set;} = null!;
+        string Nombre_Cliente {get;set;} = null!;
+        string Cedula_Cliente {get;set;} = null!;
+        string Pasaporte_Cliente {get;set;} = null!;
         string LicenciaConducir {get;set;} = null!;
         
     }

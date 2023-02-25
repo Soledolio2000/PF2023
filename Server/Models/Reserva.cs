@@ -10,7 +10,7 @@ namespace PF2023.Server.Models
         Vehiculo Vehiculo = null!;
         DateTime FechaInicio;
         DateTime FechaFin;
-        string Nombre {get;set;} = null!;
+        string Nombre_Cliente {get;set;} = null!;
     
     }
 }
