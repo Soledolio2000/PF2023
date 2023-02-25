@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 using System.Dynamic;
-namespace CrudBlazor.Server.Models
+namespace PF2023.Server.Models
 {
     public class Vehiculo
     {

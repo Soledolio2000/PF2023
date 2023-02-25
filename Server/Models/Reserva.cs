@@ -1,15 +1,16 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace CrudBlazor.Server.Models
+namespace PF2023.Server.Models
 {
     public class Reserva
     {
         [Key]
-        int id {get;set;}
-        Vehiculo vehiculo = null!;
+        int Id {get;set;}
+        Vehiculo Vehiculo = null!;
         DateTime FechaInicio;
         DateTime FechaFin;
-        string ClienteNombre {get;set;} = null!;
+        string Nombre {get;set;} = null!;
+    
     }
 }

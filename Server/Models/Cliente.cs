@@ -1,11 +1,11 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace CrudBlazor.Server.Models
+namespace PF2023.Server.Models
 {
     public class Cliente
     {
         [Key]
-        int id {get;set;}
+        int Id {get;set;}
         string Nombre {get;set;} = null!;
         string Cedula {get;set;} = null!;
         string Pasaporte {get;set;} = null!;
