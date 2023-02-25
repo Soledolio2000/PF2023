@@ -9,6 +9,7 @@ namespace PF2023.Server.Models
         string Nombre_Cliente {get;set;} = null!;
         string Cedula_Cliente {get;set;} = null!;
         string Pasaporte_Cliente {get;set;} = null!;
+        string Telefono_Cliente {get;set;} = null!;
         string LicenciaConducir {get;set;} = null!;
         
     }
