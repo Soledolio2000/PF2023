@@ -7,10 +7,12 @@ namespace PF2023.Server.Models
     {
         [Key]
         int Id {get;set;}
-        Vehiculo Vehiculo = null!;
-        DateTime FechaInicio;
-        DateTime FechaFin;
-        string Nombre_Cliente {get;set;} = null!;
+        public int IdCliente {get;set;}
+        public int IdVehiculo {get;set;}
+       public DateTime FechaInicial {get;set;}
+       public DateTime FechaFin {get;set;}
+       public double TotalAPagar {get;set;} = null!;
+
     
     }
 }

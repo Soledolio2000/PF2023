@@ -1,3 +1,4 @@
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace PF2023.Server.Models
@@ -10,6 +11,7 @@ namespace PF2023.Server.Models
         string Cedula_Cliente {get;set;} = null!;
         string Telefono_Cliente {get;set;} = null!;
         string LicenciaConducir {get;set;} = null!;
+        string Direccion_Cliente {get;set;} = null!;
         
     }
 }
