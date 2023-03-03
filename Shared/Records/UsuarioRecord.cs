@@ -1,4 +1,4 @@
-namespace CrudBlazor.Shared.Records;
+namespace PF2023.Shared.Records;
 
 public class UsuarioRecord
 {

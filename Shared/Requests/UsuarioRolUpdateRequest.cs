@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace CrudBlazor.Shared.Requests;
+namespace PF2023.Shared.Requests;
 
 //En esta parte hacemos una herencia de Create a Update en los requests
 // En el update se necesita el ID para el momento de cualquier cambio pida el ID

@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace CrudBlazor.Shared.Requests;
+namespace PF2023.Shared.Requests;
 
 // en el create no se necesita el ID
 public class UsuarioRolCreateRequest
