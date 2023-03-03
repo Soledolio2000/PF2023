@@ -24,6 +24,10 @@ internal class MyDbContext : DbContext, IMyDbContext
     #region Tablas de la BD.
     public DbSet<Usuario> Usuarios { set; get; } = null!;
     public DbSet<Usuario> UsuariosRol { set; get; } = null!;
+
+    public DbSet<Cliente> Cliente { set; get; } = null!;
+    public DbSet<Reserva> Reserva { set; get; } = null!;
+
     #endregion
     public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
     {
