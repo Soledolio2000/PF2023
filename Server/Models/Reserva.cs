@@ -11,7 +11,7 @@ namespace PF2023.Server.Models
         public int IdVehiculo {get;set;}
        public DateTime FechaInicial {get;set;}
        public DateTime FechaFin {get;set;}
-       public double TotalAPagar {get;set;} = null!;
+       public double TotalAPagar {get;set;} 
 
     
     }

@@ -96,3 +96,6 @@ C:\PF2023\Server\obj\Debug\net7.0\refint\PF2023.Server.dll
 C:\PF2023\Server\obj\Debug\net7.0\PF2023.Server.pdb
 C:\PF2023\Server\obj\Debug\net7.0\PF2023.Server.genruntimeconfig.cache
 C:\PF2023\Server\obj\Debug\net7.0\ref\PF2023.Server.dll
+C:\Users\the_d\OneDrive\Escritorio\PF2023\Server\obj\Debug\net7.0\PF2023.Server.dll
+C:\Users\the_d\OneDrive\Escritorio\PF2023\Server\obj\Debug\net7.0\refint\PF2023.Server.dll
+C:\Users\the_d\OneDrive\Escritorio\PF2023\Server\obj\Debug\net7.0\PF2023.Server.pdb

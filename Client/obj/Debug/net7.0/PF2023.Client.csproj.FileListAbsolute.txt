@@ -838,3 +838,12 @@ C:\PF2023\Client\obj\Debug\net7.0\build-gz\xQ8dNVEl.gz
 C:\PF2023\Client\obj\Debug\net7.0\build-gz\6WvkRw8A.gz
 C:\PF2023\Client\obj\Debug\net7.0\build-gz\JiAhH+Ah.gz
 C:\PF2023\Client\obj\Debug\net7.0\build-gz\QI9N0VaV.gz
+C:\Users\the_d\OneDrive\Escritorio\PF2023\Client\obj\Debug\net7.0\PF2023.Client.csproj.AssemblyReference.cache
+C:\Users\the_d\OneDrive\Escritorio\PF2023\Client\obj\Debug\net7.0\PF2023.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\the_d\OneDrive\Escritorio\PF2023\Client\obj\Debug\net7.0\PF2023.Client.AssemblyInfoInputs.cache
+C:\Users\the_d\OneDrive\Escritorio\PF2023\Client\obj\Debug\net7.0\PF2023.Client.AssemblyInfo.cs
+C:\Users\the_d\OneDrive\Escritorio\PF2023\Client\obj\Debug\net7.0\PF2023.Client.csproj.CoreCompileInputs.cache
+C:\Users\the_d\OneDrive\Escritorio\PF2023\Client\obj\Debug\net7.0\PF2023.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\the_d\OneDrive\Escritorio\PF2023\Client\obj\Debug\net7.0\PF2023.Client.dll
+C:\Users\the_d\OneDrive\Escritorio\PF2023\Client\obj\Debug\net7.0\refint\PF2023.Client.dll
+C:\Users\the_d\OneDrive\Escritorio\PF2023\Client\obj\Debug\net7.0\PF2023.Client.pdb
